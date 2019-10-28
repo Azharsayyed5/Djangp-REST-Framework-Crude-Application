@@ -1,5 +1,5 @@
-# DJANGO-REST-FRAMEWORK-CRUDE-APPLICATION
- Simple crude application developed using Django & REST framework
+# DJANGO-REST-FRAMEWORK-CRUD-APPLICATION
+ Simple CRUD application developed using Django & REST framework
 
 Initial Setup
 Let’s start by creating a directory for our code, installing Django, and creating a new project. Execute the following on the command line.
